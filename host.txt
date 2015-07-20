@@ -1,5 +1,11 @@
-# Current Version 51
+# Current Version 51a
 # Newest Version http://go.netsh.org/link/gethosts
+::1   localhost
+fe80::1%lo0    localhost
+255.255.255.255    broadcasthost
+127.0.0.1    localhost
+# 17.151.36.30   gs.apple.com
+
 # Microsoft OneDrive
 134.170.108.154    onedrive.live.com
 134.170.104.90    onedrive.live.com
