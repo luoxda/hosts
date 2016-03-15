@@ -1,5 +1,5 @@
-# Current Version 60.b
-# = prev + d(Facebook) + d(+video.xx.fbcdn.net) + d(+takeout.google.com)
+# Current Version 61.b
+# = prev + d(Facebook) + d(g-CHN) + d(g-Panoramio)
 # Newest Version http://go.netsh.org/link/gethosts
 ::1   localhost
 fe80::1%lo0    localhost
@@ -1414,79 +1414,79 @@ fe80::1%lo0    localhost
 64.233.162.84    www.google.cat
 
 # g-Ad-Services + g-Analytics (CHN)
-203.208.48.154    static.googleadsserving.cn
-203.208.48.154    ad.doubleclick.net
-203.208.48.154    ad-g.doubleclick.net
-203.208.48.154    ad-apac.doubleclick.net
-203.208.48.154    dart-apac.l.doubleclick.net
-203.208.48.154    dart.l.doubleclick.net
-203.208.48.154    n4061ad.hk.doubleclick.net
-203.208.48.154    fls.doubleclick.net
-203.208.48.154    googleads.g.doubleclick.net
-203.208.48.154    feedads.g.doubleclick.net
-203.208.48.154    pubads.g.doubleclick.net
-203.208.48.154    www.googletagservices.com
-203.208.48.154    partnerad.l.doubleclick.net
-203.208.48.154    pagead2.googlesyndication.com
-203.208.48.154    pagead2.googleadservices.com
-203.208.48.154    pagead.l.google.com
-203.208.48.154    www.google-analytics.com
-203.208.48.154    ssl.google-analytics.com
-203.208.48.154    www.googleadservices.com
-203.208.48.154    tpc.googlesyndication.com
+203.208.43.66    static.googleadsserving.cn
+203.208.43.66    ad.doubleclick.net
+203.208.43.66    ad-g.doubleclick.net
+203.208.43.66    ad-apac.doubleclick.net
+203.208.43.66    dart-apac.l.doubleclick.net
+203.208.43.66    dart.l.doubleclick.net
+203.208.43.66    n4061ad.hk.doubleclick.net
+203.208.43.66    fls.doubleclick.net
+203.208.43.66    googleads.g.doubleclick.net
+203.208.43.66    feedads.g.doubleclick.net
+203.208.43.66    pubads.g.doubleclick.net
+203.208.43.66    www.googletagservices.com
+203.208.43.66    partnerad.l.doubleclick.net
+203.208.43.66    pagead2.googlesyndication.com
+203.208.43.66    pagead2.googleadservices.com
+203.208.43.66    pagead.l.google.com
+203.208.43.66    www.google-analytics.com
+203.208.43.66    ssl.google-analytics.com
+203.208.43.66    www.googleadservices.com
+203.208.43.66    tpc.googlesyndication.com
 
 # g-usr-content + g-CN (CHN)
-203.208.48.154    265.com
-203.208.48.154    www.265.com
-203.208.48.154    g.cn
-203.208.48.154    ipv6.google.cn
-203.208.48.154    music.googleusercontent.cn
-203.208.48.154    blogsearch.google.cn
-203.208.48.154    ditu.google.cn
-203.208.48.154    id.google.cn
-203.208.48.154    maps.google.cn
-203.208.48.154    groups.google.cn
-203.208.48.154    labs.google.cn
-203.208.48.154    mt0.google.cn
-203.208.48.154    mt1.google.cn
-203.208.48.154    mt2.google.cn
-203.208.48.154    mt3.google.cn
-203.208.48.154    pack.google.cn
-203.208.48.154    scholar.google.cn
-203.208.48.154    0.gvt0.cn
-203.208.48.154    1.gvt0.cn
-203.208.48.154    2.gvt0.cn
-203.208.48.154    3.gvt0.cn
-203.208.48.154    4.gvt0.cn
-203.208.48.154    5.gvt0.cn
-203.208.48.154    news.google.cn
-203.208.48.154    translate.google.cn
-203.208.48.154    video.google.cn
-203.208.48.154    www.gvt0.cn
-203.208.48.154    gg.google.cn
-203.208.48.154    m.google.cn
-203.208.48.154    mt.google.cn
-203.208.48.154    google.cn
-203.208.48.154    books.google.cn
-203.208.48.154    www.google.cn
-203.208.48.154    www.gstatic.cn
-203.208.48.154    maps.gstatic.cn
-203.208.48.154    fonts.gstatic.com
-203.208.48.154    fonts.googleapis.com
-203.208.48.154    csi.gstatic.com
+203.208.43.66    265.com
+203.208.43.66    www.265.com
+203.208.43.66    g.cn
+203.208.43.66    ipv6.google.cn
+203.208.43.66    music.googleusercontent.cn
+203.208.43.66    blogsearch.google.cn
+203.208.43.66    ditu.google.cn
+203.208.43.66    id.google.cn
+203.208.43.66    maps.google.cn
+203.208.43.66    groups.google.cn
+203.208.43.66    labs.google.cn
+203.208.43.66    mt0.google.cn
+203.208.43.66    mt1.google.cn
+203.208.43.66    mt2.google.cn
+203.208.43.66    mt3.google.cn
+203.208.43.66    pack.google.cn
+203.208.43.66    scholar.google.cn
+203.208.43.66    0.gvt0.cn
+203.208.43.66    1.gvt0.cn
+203.208.43.66    2.gvt0.cn
+203.208.43.66    3.gvt0.cn
+203.208.43.66    4.gvt0.cn
+203.208.43.66    5.gvt0.cn
+203.208.43.66    news.google.cn
+203.208.43.66    translate.google.cn
+203.208.43.66    video.google.cn
+203.208.43.66    www.gvt0.cn
+203.208.43.66    gg.google.cn
+203.208.43.66    m.google.cn
+203.208.43.66    mt.google.cn
+203.208.43.66    google.cn
+203.208.43.66    books.google.cn
+203.208.43.66    www.google.cn
+203.208.43.66    www.gstatic.cn
+203.208.43.66    maps.gstatic.cn
+203.208.43.66    fonts.gstatic.com
+203.208.43.66    fonts.googleapis.com
+203.208.43.66    csi.gstatic.com
 
 # g-Dl-Kh (CHN)
-203.208.48.154    dl.google.com
-203.208.48.154    dl.l.google.com
-203.208.48.154    kh.google.com
-203.208.48.154    kh.l.google.com
-203.208.48.154    khm.google.com
-203.208.48.154    khm0.google.com
-203.208.48.154    khm.l.google.com
-203.208.48.154    khm1.google.com
-203.208.48.154    khm2.google.com
-203.208.48.154    khm3.google.com
-203.208.48.154    khmdb.google.com
+203.208.43.66    dl.google.com
+203.208.43.66    dl.l.google.com
+203.208.43.66    kh.google.com
+203.208.43.66    kh.l.google.com
+203.208.43.66    khm.google.com
+203.208.43.66    khm0.google.com
+203.208.43.66    khm.l.google.com
+203.208.43.66    khm1.google.com
+203.208.43.66    khm2.google.com
+203.208.43.66    khm3.google.com
+203.208.43.66    khmdb.google.com
 
 # g-Fix-usr-con
 64.233.162.84    clients1.googleusercontent.com
@@ -1542,11 +1542,11 @@ fe80::1%lo0    localhost
 74.125.34.43    www.googlesciencefair.com
 
 # g-Panoramio
-216.58.208.46    panoramio.com
-173.194.67.141    www.panoramio.com
-173.194.67.128    static.panoramio.com
+216.58.208.177    panoramio.com
+216.58.208.177    www.panoramio.com
+216.58.208.176    static.panoramio.com
 74.125.34.46    www.virustotal.com
-216.239.32.21    virustotal.com
+216.239.34.21    virustotal.com
 
 # g-Global-Solv
 74.125.28.188    gcm.l.google.com
