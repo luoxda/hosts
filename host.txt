@@ -1,5 +1,5 @@
-# Current Version 69.2.a
-# = prev + dd(Google) + dd(OneDrive) + d(Facebook)
+# Current Version 70.a
+# = prev + d(Wikipedia)
 # Newest Version http://go.netsh.org/link/gethosts
 ::1   localhost
 fe80::1%lo0    localhost
