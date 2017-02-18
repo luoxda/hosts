@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-01-02
+# Last updated: 2017-02-09
 
 # Localhost (DO NOT REMOVE)
 127.0.0.1	localhost
@@ -31,15 +31,11 @@
 # Disqus End
 
 # Dropbox Start
-#######
-# Warning: SNIProxy being used.
-110.4.24.178	db.tt
-110.4.24.178	dropbox.com
-110.4.24.178	m.dropbox.com
-110.4.24.178	www.v.dropbox.com
-110.4.24.178	dl-debug.dropbox.com
-110.4.24.178	www.dropbox.com
-#######
+108.160.173.233	db.tt
+52.29.64.168	dropbox.com
+52.29.64.168	www.dropbox.com
+108.160.173.233	m.dropbox.com
+108.160.173.162	dl-debug.dropbox.com
 52.85.76.60	linux.dropbox.com
 108.160.172.225	d.dropbox.com
 108.160.172.225	d.v.dropbox.com
@@ -281,6 +277,7 @@
 61.91.161.217	wenda.google.com.hk
 61.91.161.217	analytics.googleblog.com
 61.91.161.217	android.googleblog.com
+61.91.161.217	android-developers.googleblog.com
 61.91.161.217	research.googleblog.com
 61.91.161.217	security.googleblog.com
 61.91.161.217	gmail.googleblog.com
@@ -329,6 +326,8 @@
 61.91.161.217	googleforstudents.blogspot.com
 61.91.161.217	students.googleblog.com
 61.91.161.217	chrome.blogspot.com
+61.91.161.217	googleadservices.com
+61.91.161.217	www.googleadservices.com
 61.91.161.217	google-latlong.blogspot.com
 61.91.161.217	insidesearch.blogspot.com
 61.91.161.217	googleadsdeveloper.blogspot.com
@@ -342,6 +341,7 @@
 61.91.161.217	calendar.google.com
 61.91.161.217	checkout.google.com
 61.91.161.217	wallet.google.com
+61.91.161.217	landing.google.com
 61.91.161.217	chrome.com
 61.91.161.217	www.chrome.com
 61.91.161.217	developer.chrome.com
@@ -375,7 +375,9 @@
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
 61.91.161.217	boringssl.googlesource.com
+108.177.97.82	tensorflow.googlesource.com
 61.91.161.217	gerrit.googlesource.com
+61.91.161.217	gerrit-review.googlesource.com
 61.91.161.217	chromium.googlesource.com
 61.91.161.217	kernel.googlesource.com
 61.91.161.217	android-review.googlesource.com
@@ -393,6 +395,7 @@
 61.91.161.217	www.googlesource.com
 61.91.161.217	android.googlesource.com
 61.91.161.217	cloud.google.com
+61.91.161.217	ogs.google.com
 61.91.161.217	packages.cloud.google.com
 61.91.161.217	console.cloud.google.com
 61.91.161.217	status.cloud.google.com
@@ -407,6 +410,8 @@
 61.91.161.217	directory.google.com
 61.91.161.217	dir.google.com
 61.91.161.217	events.google.com
+61.91.161.217	savethedate.foo
+61.91.161.217	www.savethedate.foo
 61.91.161.217	googledrive.com
 61.91.161.217	docs.google.com
 61.91.161.217	drive.google.com
@@ -422,6 +427,7 @@
 61.91.161.217	docs9.google.com
 61.91.161.217	firebase.google.com
 61.91.161.217	material.google.com
+216.239.34.21	material.io
 61.91.161.217	writely.google.com
 61.91.161.217	upload.docs.google.com
 61.91.161.217	upload.drive.google.com
@@ -575,7 +581,9 @@
 61.91.161.217	scholar.google.com.hk
 61.91.161.217	scholar.google.com.tw
 61.91.161.217	sites.google.com
+61.91.161.217	surveys.google.com
 61.91.161.217	sketchup.google.com
+61.91.161.217	tagmanager.google.com
 61.91.161.217	talkgadget.google.com
 61.91.161.217	tools.google.com
 61.91.161.217	toolbar.google.com
@@ -628,13 +636,59 @@
 61.91.161.217	realtimesupport.clients6.google.com
 61.91.161.217	360suite.google.com
 61.91.161.217	optimize.google.com
-216.58.203.85	attribution.google.com
+216.58.206.14	attribution.google.com
 61.91.161.217	audiencecenter.google.com
 61.91.161.217	datastudio.google.com
 61.91.161.217	studykit.google.com
 61.91.161.217	business.google.com
 61.91.161.217	google-analytics.com
+61.91.161.217	www.googletagmanager.com
 61.91.161.217	artsandculture.google.com
+
+# gstatic Start
+61.91.161.217	geo0.ggpht.com
+61.91.161.217	geo1.ggpht.com
+61.91.161.217	geo2.ggpht.com
+61.91.161.217	geo3.ggpht.com
+61.91.161.217	gm1.ggpht.com
+61.91.161.217	gm2.ggpht.com
+61.91.161.217	gm3.ggpht.com
+61.91.161.217	gm4.ggpht.com
+61.91.161.217	lh3.ggpht.com
+61.91.161.217	lh4.ggpht.com
+61.91.161.217	lh5.ggpht.com
+61.91.161.217	lh6.ggpht.com
+61.91.161.217	nt0.ggpht.com
+61.91.161.217	nt1.ggpht.com
+61.91.161.217	nt2.ggpht.com
+61.91.161.217	nt3.ggpht.com
+61.91.161.217	yt3.ggpht.com
+61.91.161.217	yt4.ggpht.com
+61.91.161.217	accounts.gstatic.com
+61.91.161.217	maps.gstatic.com
+61.91.161.217	ssl.gstatic.com
+61.91.161.217	www.gstatic.com
+61.91.161.217	encrypted-tbn0.gstatic.com
+61.91.161.217	encrypted-tbn1.gstatic.com
+61.91.161.217	encrypted-tbn2.gstatic.com
+61.91.161.217	encrypted-tbn3.gstatic.com
+61.91.161.217	g0.gstatic.com
+61.91.161.217	g1.gstatic.com
+61.91.161.217	g2.gstatic.com
+61.91.161.217	g3.gstatic.com
+61.91.161.217	mt0.gstatic.com
+61.91.161.217	mt1.gstatic.com
+61.91.161.217	mt2.gstatic.com
+61.91.161.217	mt3.gstatic.com
+61.91.161.217	mt4.gstatic.com
+61.91.161.217	mt5.gstatic.com
+61.91.161.217	mt6.gstatic.com
+61.91.161.217	mt7.gstatic.com
+61.91.161.217	t0.gstatic.com
+61.91.161.217	t1.gstatic.com
+61.91.161.217	t2.gstatic.com
+61.91.161.217	t3.gstatic.com
+# gstatic End
 
 # Googleapis Start
 61.91.161.217	chart.apis.google.com
@@ -2627,6 +2681,9 @@
 # OneDrive Start
 204.79.197.217	onedrive.live.com
 134.170.107.72	skyapi.onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+13.107.42.11	outlook.live.com
 # OneDrive End
 
 # Wikipedia Start
