@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-02-21
+# Last updated: 2017-03-15
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -128,6 +128,9 @@
 61.91.161.217	clients4.google.com
 61.91.161.217	clients5.google.com
 61.91.161.217	clients6.google.com
+61.91.161.217	client2.google.com
+61.91.161.217	client4.google.com
+61.91.161.217	client6.google.com
 61.91.161.217	classroom.google.com
 61.91.161.217	classroom.google.ca
 61.91.161.217	clouderrorreporting.clients6.google.com
@@ -155,6 +158,7 @@
 61.91.161.217	cloudconfig.clients6.google.com
 61.91.161.217	gcmcontextualcampaign-pa.clients6.google.com
 61.91.161.217	mobilecrashreporting.clients6.google.com
+61.91.161.217	reminders-pa.clients6.google.com
 61.91.161.217	goto.google.com
 61.91.161.217	gxc.google.com
 61.91.161.217	get.google.com
@@ -440,7 +444,6 @@
 61.91.161.217	docs7.google.com
 61.91.161.217	docs8.google.com
 61.91.161.217	docs9.google.com
-61.91.161.217	firebase.google.com
 61.91.161.217	material.google.com
 216.239.34.21	material.io
 61.91.161.217	writely.google.com
@@ -589,6 +592,7 @@
 61.91.161.217	safebrowsing.google.com
 61.91.161.217	search.google.com
 61.91.161.217	alt1-safebrowsing.google.com
+61.91.161.217	alt2-safebrowsing.google.com
 61.91.161.217	safebrowsing.clients.google.com
 61.91.161.217	safebrowsing-cache.google.com
 61.91.161.217	sandbox.google.com
@@ -683,10 +687,12 @@
 61.91.161.217	maps.gstatic.com
 61.91.161.217	ssl.gstatic.com
 61.91.161.217	www.gstatic.com
+61.91.161.217	connectivitycheck.gstatic.com
 61.91.161.217	encrypted-tbn0.gstatic.com
 61.91.161.217	encrypted-tbn1.gstatic.com
 61.91.161.217	encrypted-tbn2.gstatic.com
 61.91.161.217	encrypted-tbn3.gstatic.com
+203.208.51.55	fonts.gstatic.com
 61.91.161.217	g0.gstatic.com
 61.91.161.217	g1.gstatic.com
 61.91.161.217	g2.gstatic.com
@@ -710,15 +716,20 @@
 61.91.161.217	googleapis.com
 61.91.161.217	www.googleapis.com
 61.91.161.217	ajax.googleapis.com
+61.91.161.217	appinvite-pa.googleapis.com
+61.91.161.217	appinvite-ipv4-pa.googleapis.com
+61.91.161.217	appinvite-ipv6-pa.googleapis.com
 61.91.161.217	android.googleapis.com
 61.91.161.217	bigcache.googleapis.com
 61.91.161.217	chart.googleapis.com
 61.91.161.217	content.googleapis.com
+61.91.161.217	growth-pa.googleapis.com
 61.91.161.217	khms0.googleapis.com
 61.91.161.217	khms1.googleapis.com
 61.91.161.217	maps.googleapis.com
 61.91.161.217	origin-commondatastorage.googleapis.com
 216.58.221.144	commondatastorage.googleapis.com
+61.91.161.217	photos.googleapis.com
 61.91.161.217	play.googleapis.com
 61.91.161.217	plus.googleapis.com
 61.91.161.217	redirector-bigcache.googleapis.com
@@ -735,6 +746,7 @@
 61.91.161.217	ct.googleapis.com
 61.91.161.217	securetoken.googleapis.com
 61.91.161.217	firebasestorage.googleapis.com
+61.91.161.217	www-tactile-opensocial.googleusercontent.com
 61.91.161.217	www--google--com.safenup.googleusercontent.com
 61.91.161.217	www--google--com--hk.safenup.googleusercontent.com
 64.233.188.121	code.getmdl.io
@@ -884,6 +896,7 @@
 61.91.161.217	android.clients.google.com
 61.91.161.217	withgoogle.com
 61.91.161.217	www.withgoogle.com
+61.91.161.217	cloudnext.withgoogle.com
 61.91.161.217	edutrainingcenter.withgoogle.com
 61.91.161.217	earthview.withgoogle.com
 61.91.161.217	lightsaber.withgoogle.com
@@ -2188,8 +2201,8 @@
 61.91.161.217	i9.ytimg.com
 61.91.161.217	s.ytimg.com
 61.91.161.217	manifest.googlevideo.com
-64.233.162.83	onetoday.google.com
-64.233.162.83	notifications.google.com
+61.91.161.217	onetoday.google.com
+61.91.161.217	notifications.google.com
 
 # Google:others Start
 61.91.161.217	google.ad
