@@ -1,6 +1,7 @@
+
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-03-15
+# Last updated: 2017-03-24
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -167,6 +168,7 @@
 61.91.161.217	myactivity.google.com
 61.91.161.217	isp.google.com
 61.91.161.217	investor.google.com
+61.91.161.217	issuetracker.google.com
 61.91.161.217	jmt0.google.com
 61.91.161.217	keep.google.com
 61.91.161.217	linkhelp.clients.google.com
@@ -297,6 +299,7 @@
 61.91.161.217	analytics.googleblog.com
 61.91.161.217	android.googleblog.com
 61.91.161.217	android-developers.googleblog.com
+61.91.161.217	androidstudio.googleblog.com
 61.91.161.217	research.googleblog.com
 61.91.161.217	security.googleblog.com
 61.91.161.217	gmail.googleblog.com
@@ -505,6 +508,7 @@
 61.91.161.217	geoauth.google.com
 61.91.161.217	finance.google.com
 61.91.161.217	fusion.google.com
+61.91.161.217	fusiontables.google.com
 61.91.161.217	groups.google.com
 61.91.161.217	groups.google.com.hk
 61.91.161.217	groups-beta.google.com
@@ -749,6 +753,7 @@
 61.91.161.217	www-tactile-opensocial.googleusercontent.com
 61.91.161.217	www--google--com.safenup.googleusercontent.com
 61.91.161.217	www--google--com--hk.safenup.googleusercontent.com
+61.91.161.217	doc-00-24-apps-viewer.googleusercontent.com
 64.233.188.121	code.getmdl.io
 64.233.189.128	storage.googleapis.com
 64.233.189.128	chromedriver.storage.googleapis.com
