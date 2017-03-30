@@ -1,7 +1,6 @@
-
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-03-24
+# Last updated: 2017-03-28
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -123,12 +122,12 @@
 61.91.161.217	takeout.google.com
 61.91.161.217	bpui0.google.com
 61.91.161.217	cse.google.com
-61.91.161.217	clients1.google.com
-61.91.161.217	clients2.google.com
-61.91.161.217	clients3.google.com
-61.91.161.217	clients4.google.com
-61.91.161.217	clients5.google.com
-61.91.161.217	clients6.google.com
+219.76.4.14	clients1.google.com
+219.76.4.14	clients2.google.com
+219.76.4.14	clients3.google.com
+219.76.4.14	clients4.google.com
+219.76.4.14	clients5.google.com
+219.76.4.14	clients6.google.com
 61.91.161.217	client2.google.com
 61.91.161.217	client4.google.com
 61.91.161.217	client6.google.com
@@ -181,6 +180,7 @@
 61.91.161.217	script.google.com
 61.91.161.217	security.google.com
 61.91.161.217	services.google.com
+61.91.161.217	summerofcode.withgoogle.com
 61.91.161.217	store.google.com
 61.91.161.217	suggestqueries.google.com
 61.91.161.217	support.google.com
@@ -300,6 +300,7 @@
 61.91.161.217	android.googleblog.com
 61.91.161.217	android-developers.googleblog.com
 61.91.161.217	androidstudio.googleblog.com
+61.91.161.217	firebase.googleblog.com
 61.91.161.217	research.googleblog.com
 61.91.161.217	security.googleblog.com
 61.91.161.217	gmail.googleblog.com
@@ -389,6 +390,7 @@
 61.91.161.217	jmoore-dot-android-experiments.appspot.com
 61.91.161.217	lfe-alpo-gm.appspot.com
 61.91.161.217	m-dot-betaspike.appspot.com
+61.91.161.217	mission-author-dot-betaspike.appspot.com
 61.91.161.217	joinjoaomgcd.appspot.com
 61.91.161.217	accounts.google.com.gi
 61.91.161.217	accounts.google.co.nz
@@ -397,7 +399,6 @@
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
 61.91.161.217	boringssl.googlesource.com
-108.177.97.82	tensorflow.googlesource.com
 61.91.161.217	gerrit.googlesource.com
 61.91.161.217	gerrit-review.googlesource.com
 61.91.161.217	chromium.googlesource.com
@@ -608,7 +609,7 @@
 61.91.161.217	sketchup.google.com
 61.91.161.217	tagmanager.google.com
 61.91.161.217	talkgadget.google.com
-61.91.161.217	tools.google.com
+219.76.4.14	tools.google.com
 61.91.161.217	toolbar.google.com
 61.91.161.217	toolbar.google.com.hk
 61.91.161.217	translate.google.com
@@ -697,6 +698,7 @@
 61.91.161.217	encrypted-tbn2.gstatic.com
 61.91.161.217	encrypted-tbn3.gstatic.com
 203.208.51.55	fonts.gstatic.com
+61.91.161.217	play-music.gstatic.com
 61.91.161.217	g0.gstatic.com
 61.91.161.217	g1.gstatic.com
 61.91.161.217	g2.gstatic.com
@@ -2606,7 +2608,7 @@
 61.91.161.217	abc.xyz
 64.233.191.121	www.androidexperiments.com
 64.233.191.121	androidexperiments.com
-64.233.188.121	www.tensorflow.org
+61.91.161.217	www.tensorflow.org
 # Google:others End
 
 # Gmail SMTP/POP/IMAP Start
@@ -2719,6 +2721,19 @@
 204.79.197.217	webedgegeo.skyprod.akadns.net
 13.107.42.11	outlook.live.com
 # OneDrive End
+
+# pcbeta Start
+218.93.127.136	pcbeta.com
+218.93.127.136	uc.pcbeta.com
+218.93.127.136	m.pcbeta.com
+218.93.127.136	web.pcbeta.com
+218.93.127.136	i.pcbeta.com
+218.93.127.136	bbs.pcbeta.com
+218.93.127.136	www.pcbeta.com
+218.93.127.136	cdn.pcbeta.attachment.inimc.com
+218.93.127.136	cdn.pcbeta.static.inimc.com
+218.93.127.136	cdn.pcbeta.css.inimc.com
+# pcbeta End
 
 # Wikipedia Start
 198.35.26.96	wuu.wikipedia.org
