@@ -37,8 +37,8 @@
 
 # Dropbox Start
 108.160.173.193	db.tt
-108.160.173.201	dropbox.com
-162.125.32.14	www.dropbox.com
+108.160.173.239	dropbox.com
+108.160.173.239	www.dropbox.com
 108.160.173.193	www.v.dropbox.com
 108.160.173.193	www.dropbox-dns.com
 108.160.173.193	api.dropbox.com
@@ -80,11 +80,11 @@
 108.160.173.193	photos-thumb.x.dropbox.com
 108.160.173.193	status.dropbox.com
 108.160.173.193	snapengage.dropbox.com
-108.160.173.234	www.dropboxstatic.com
-108.160.173.234	cfl.dropboxstatic.com
-108.160.173.234	cf.dropboxstatic.com
-108.160.173.234	dbxlocal.dropboxstatic.com
-108.160.173.234	log.getdropbox.com
+104.16.100.29	www.dropboxstatic.com
+104.16.100.29	cfl.dropboxstatic.com
+104.16.100.29	cf.dropboxstatic.com
+104.16.100.29	dbxlocal.dropboxstatic.com
+104.16.100.29	log.getdropbox.com
 # Dropbox End
 
 # Github start
@@ -487,6 +487,7 @@
 
 61.91.161.217	gwt.googlesource.com
 61.91.161.217	code.google.com
+61.91.161.217	code.googlesource.com
 61.91.161.217	uploads.code.google.com
 
 61.91.161.217	chromium.googlecode.com
@@ -859,21 +860,23 @@
 61.91.161.217	feeds2.feedburner.com
 61.91.161.217	feedproxy.google.com
 61.91.161.217	go.googlesource.com
+61.91.161.217	go-review.googlesource.com
+61.91.161.217	cdn.googlesource.com
 61.91.161.217	golang.org
 61.91.161.217	www.golang.org
 61.91.161.217	blog.golang.org
 61.91.161.217	play.golang.org
 61.91.161.217	tip.golang.org
 61.91.161.217	tour.golang.org
-74.125.28.14	google.golang.org
+61.91.161.217	google.golang.org
 61.91.161.217	goo.gl
 61.91.161.217	pay.app.goo.gl
 61.91.161.217	g.co
 61.91.161.217	www.google.org
 61.91.161.217	blog.google.org
-216.58.196.150	panoramio.com
-216.58.196.150	www.panoramio.com
-64.233.189.128	static.panoramio.com
+74.125.34.40	panoramio.com
+74.125.34.40	www.panoramio.com
+64.233.188.128	static.panoramio.com
 61.91.161.217	blog.panoramio.com
 61.91.161.217	www.recaptcha.net
 61.91.161.217	api.recaptcha.net
@@ -2729,6 +2732,9 @@
 218.93.127.136	cdn.pcbeta.attachment.inimc.com
 218.93.127.136	cdn.pcbeta.static.inimc.com
 218.93.127.136	cdn.pcbeta.css.inimc.com
+218.93.127.136	mac.pcbeta.com
+218.93.127.136	template.pcbeta.com
+218.93.127.136	static.template.pcbeta.com
 # pcbeta End
 
 # Wikipedia Start
@@ -2737,6 +2743,10 @@
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
+
+# Xboxlive Start
+134.170.178.89	achievements.xboxlive.com
+# Xboxlive End
 
 # Modified hosts end
 
