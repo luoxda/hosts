@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-07
+# Last updated: 2017-05-19
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
