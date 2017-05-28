@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-19
+# Last updated: 2017-05-28
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -12,6 +12,41 @@
 ::1	localhost ip6-localhost ip6-loopback
 
 # Modified hosts start
+
+# Android Start
+61.91.161.217	android.com
+61.91.161.217	www.android.com
+61.91.161.217	a.android.com
+64.233.188.121	b.android.com
+61.91.161.217	connectivitycheck.android.com
+61.91.161.217	d.android.com
+61.91.161.217	developer.android.com
+61.91.161.217	dev.android.com
+64.233.188.121	m.android.com
+61.91.161.217	market.android.com
+61.91.161.217	r.android.com
+61.91.161.217	source.android.com
+64.233.188.121	tools.android.com
+61.91.161.217	android-china.l.google.com
+61.91.161.217	android.clients.google.com
+61.91.161.217	android-market.l.google.com
+61.91.161.217	android.l.google.com
+61.91.161.217	android.googleblog.com
+61.91.161.217	androidstudio.googleblog.com
+61.91.161.217	android-developers.googleblog.com
+61.91.161.217	android-developers.blogspot.com
+61.91.161.217	android-developers.blogspot.hk
+61.91.161.217	officialandroid.blogspot.com
+61.91.161.217	android.googlecode.com
+61.91.161.217	android.googlesource.com
+61.91.161.217	android-review.googlesource.com
+61.91.161.217	androidmarket.googleusercontent.com
+61.91.161.217	android.googleapis.com
+64.233.191.121	www.androidexperiments.com
+64.233.191.121	androidexperiments.com
+61.91.161.217	jmoore-dot-android-experiments.appspot.com
+61.91.161.217	maven.google.com
+# Android End
 
 # Box.com Start
 74.112.184.70	app.box.com
@@ -2226,6 +2261,7 @@
 61.91.161.217	38-wave-opensocial.googleusercontent.com
 61.91.161.217	39-wave-opensocial.googleusercontent.com
 61.91.161.217	40-wave-opensocial.googleusercontent.com
+61.91.161.217	redirector.googlevideo.com
 # Googleusercontent End
 
 61.91.161.217	toolbox.googleapps.com
