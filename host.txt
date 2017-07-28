@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-13
+# Last updated: 2017-07-25
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -95,6 +95,7 @@
 162.125.32.5	api-d.dropbox.com
 162.125.32.13	api.v.dropbox.com
 162.125.32.13	api-notify.dropbox.com
+52.84.243.64	aem.dropbox.com
 162.125.1.8	api-content.dropbox.com
 162.125.2.5	api-content-photos.dropbox.com
 52.85.12.34	blogs.dropbox.com
@@ -126,6 +127,7 @@
 162.125.80.5	photos-6.dropbox.com
 162.125.80.5	photos-thumb.dropbox.com
 162.125.18.129	photos-thumb.x.dropbox.com
+162.125.2.3	paper.dropbox.com
 52.85.12.41	status.dropbox.com
 52.85.12.72	snapengage.dropbox.com
 162.125.2.6	dl.dropboxusercontent.com
@@ -989,8 +991,6 @@
 216.58.200.192	yt4.ggpht.com
 216.58.200.192	accounts.gstatic.com
 216.58.200.192	maps.gstatic.com
-216.58.200.192	ssl.gstatic.com
-216.58.200.192	www.gstatic.com
 216.58.200.192	connectivitycheck.gstatic.com
 216.58.200.192	encrypted-tbn0.gstatic.com
 216.58.200.192	encrypted-tbn1.gstatic.com
