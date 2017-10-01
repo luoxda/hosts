@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-09-20
+# Last updated: 2017-09-27
 
 # https://laod.cn/hosts/2017-google-hosts.html
 
@@ -635,6 +635,7 @@
 66.96.224.143	auth.keyhole.com
 66.96.224.143	geoauth.google.com
 66.96.224.143	finance.google.com
+66.96.224.143	finance.google.com.hk
 66.96.224.143	fusion.google.com
 66.96.224.143	fusiontables.google.com
 66.96.224.143	groups.google.com
@@ -2788,6 +2789,7 @@
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+198.35.26.96	ug.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
 
