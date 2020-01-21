@@ -2,6 +2,7 @@
 # https://github.com/googlehosts/hosts
 # Last updated: 2018-05-03
 
+
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
 
